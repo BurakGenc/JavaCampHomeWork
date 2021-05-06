@@ -1,3 +1,3 @@
-# JavaCampHomeWork
+# Week 3 HomeWork
 
-3.Hafta Ödevi
+
